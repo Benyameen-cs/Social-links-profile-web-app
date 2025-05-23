@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution url](https://your-solution-url.com)
-- Solution URL: [solution live url](https://your-solution-url.com)
+- Solution URL: [solution live url](https://social-links-profile-web.netlify.app/)
 
 ## My process
 
