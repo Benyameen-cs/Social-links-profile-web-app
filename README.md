@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution url](https://your-solution-url.com)
-- Solution URL: [solution live url](https://social-links-profile-web.netlify.app/)
+- Solution URL: [solution url](https://github.com/Benyameen-cs/Social-links-profile-web-app)
+- Solution URL: [solution live url](https://advice-generator-web-app1.netlify.app/)
 
 ## My process
 
