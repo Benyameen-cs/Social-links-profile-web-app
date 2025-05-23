@@ -1,0 +1,93 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:hsl(0, 0%, 8%) ;
+}
+
+.social-link-container{
+    height: 80%;
+    width: 320px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+    color: hsl(0, 0%, 100%)
+
+}
+
+.social-link-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1.5rem 0rem;
+
+}
+
+.social-link-DP-continer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.social-dp-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.social-dp-image img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.social-name{
+
+    font-weight: 600;
+}
+
+.social-location-name{
+    font-weight: 400;
+    color:  hsl(75, 94%, 57%);
+}
+
+.job-title{
+    margin-top: 10px;
+    color: hsl(0, 4%, 85%) ;
+}
+
+
+.profile-link-container{
+    width: 90%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.links{
+    height: 50px;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+    text-decoration: none;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 7px;
+    color: white;
+    line-height: 50px;
+}
+
+.links:hover{
+    background-color:  hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    font-weight: 600;
+}
